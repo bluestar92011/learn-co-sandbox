@@ -1,0 +1,10 @@
+def about _me
+
+puts "My name is Loreen"
+ puts "I grew up in Chicago"
+ puts "I'm 16 Years Old"
+  puts "I like to learn how to code"
+  
+  end
+  
+  
